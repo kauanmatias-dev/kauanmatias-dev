@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o Kauanzin 👋
 
-<!--
-**kauanmatias-dev/kauanmatias-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento Web e Multimédia (CTESP) no IPCA, em Famalicão.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+PHP · MySQL · JavaScript · HTML/CSS · C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- **[studyplan-node](link)** — Plataforma de gestão académica (Node.js, Express, MongoDB)
+- **[monitoriza-o-de-carteira-de-a-es](link)** — Dashboard de monitorização de ações (Angular)
+- **[Rio-Futevol-ei](link)** — Website de escola de futevôlei (HTML, CSS, JS)
+- **[TPF-pw1](link)** — Grand Horizon: app de gestão hoteleira (HTML, CSS, JS, Bootstrap)
+
+## 📫 Contacto
+- Email:kauandeabreumatas@gmail.com
