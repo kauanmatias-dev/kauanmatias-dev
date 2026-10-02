@@ -1,4 +1,4 @@
-# Olá, sou o Kauanzin 👋
+# Olá, sou o Kauan👋
 
 Estudante de Desenvolvimento Web e Multimédia (CTESP) no IPCA, em Famalicão.
 
